@@ -63,10 +63,10 @@ classe  Fila {
 let  fila : Queue  =  new  Queue ( )
 
 
-fila . addQueue ( 'Clau' )
-fila . addQueue ( 'Maria' )
+fila . addQueue ( 'Arlindo' )
+fila . addQueue ( 'Miguel' )
 fila . addQueue ( 'Pedro' )
-fila . addQueue ( 'Julia' )
+fila . addQueue ( 'Fernanda' )
 consola . log ( '-------------------------' )
 
 fila . removeQueue ( )
@@ -74,7 +74,7 @@ fila . removeQueue ( )
 fila . removeQueue ( )
 consola . log ( '-------------------------' )
 
-fila . addQueue ( 'Cristina' )
+fila . addQueue ( 'Larissa' )
 consola . log ( '-------------------------' )
 
 fila . verFila ( )
