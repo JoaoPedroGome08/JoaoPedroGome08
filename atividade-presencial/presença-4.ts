@@ -1,4 +1,4 @@
-classe  Fila {
+class Fila {
     
     Pessoas : string [ ]  =  [ ]
     maxQueue  =  5
