@@ -51,5 +51,6 @@ console.log("=========================");
 
 
 nf.imprimirNotaFiscal()
+nf.calcularValorNotaFiscal()
 
 
